@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.rose_hulman.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.04 s - in edu.rose_hulman.AppTest
